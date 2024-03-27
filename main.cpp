@@ -12,8 +12,6 @@ int main()
 //#include <wiringPi.h>
 using namespace std;
 
-//Hello world !
-
 int main ()
 {int nom; int menu;
 
